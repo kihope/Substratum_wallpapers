@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<substratum>
+    <wallpaper id="01">
+        <link>http://www.androidpolice.com/wp-content/uploads/2016/04/nexus2cee_wallpapers_00-1.jpg</link>
+        <preview>http://www.androidpolice.com/wp-content/uploads/2016/04/nexus2cee_wallpapers_00-1.jpg</preview>
+    </wallpaper>
+	<wallpaper id="02">
+        <link>http://www.androidpolice.com/wp-content/uploads/2016/04/nexus2cee_wallpapers_01.jpg</link>
+        <preview>http://www.androidpolice.com/wp-content/uploads/2016/04/nexus2cee_wallpapers_01.jpg</preview>
+    </wallpaper>
+	<wallpaper id="03">
+        <link>/wallpaper 3.jpg</link>
+        <preview>/wallpaper 3.jpg</preview>
+    </wallpaper>
+	<wallpaper id="04">
+        <link>wallpaper 4.jpg</link>
+        <preview>wallpaper 4.jpg</preview>
+    </wallpaper>
+</substratum>
